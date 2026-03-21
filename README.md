@@ -11,7 +11,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **[dsamentor.vercel.app](https://dsamentor.vercel.app)**
+🔗 **[https://dsa-mentor-ai-amolraut638.vercel.app/] https://dsa-mentor-ai-amolraut638.vercel.app/**
 
 ---
 

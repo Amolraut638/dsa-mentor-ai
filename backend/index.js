@@ -12,6 +12,13 @@ app.use(express.json());
 
 app.use('/api', chatRoute);
 
+app.get('/', (req, res) => {
+  res.json({ 
+    status: 'DsaMentor.ai backend is live',
+    version: '1.0.0'
+  })
+})
+
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });

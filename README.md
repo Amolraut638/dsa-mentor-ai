@@ -11,7 +11,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **[dsamentor.vercel.app](https://dsamentor.vercel.app)** ← deployed link here
+🔗 **[dsamentor.vercel.app](https://dsamentor.vercel.app)**
 
 ---
 
@@ -19,8 +19,8 @@
 
 DsaMentor.ai is a purpose-built chatbot for developers who want to get better at Data Structures & Algorithms. Unlike a generic AI wrapper, this bot has a specific persona and teaching philosophy:
 
-- When you ask about a **DSA concept** → it explains clearly with code examples and complexity analysis
-- When you paste a **LeetCode problem** → it does NOT give you the answer. Instead, it guides you like a mentor — asking clarifying questions, identifying patterns, giving progressive hints
+- When you ask about a **DSA concept** -> it explains clearly with code examples and complexity analysis
+- When you paste a **LeetCode problem** -> it does NOT give you the answer. Instead, it guides you like a mentor - asking clarifying questions, identifying patterns, giving progressive hints
 
 The goal is to make you **think**, not just copy-paste solutions.
 
@@ -28,17 +28,17 @@ The goal is to make you **think**, not just copy-paste solutions.
 
 ## ✨ Features
 
-- 🎯 **Topic-focused** — Only answers DSA & algorithm questions. Politely redirects everything else
-- 🧑‍🏫 **Mentor mode** — For LeetCode problems, guides you step by step instead of giving direct answers
-- 💡 **Suggested questions** — Empty state shows quick-start prompts to get going instantly
-- ⚡ **Chip navigation** — Click any suggestion on the landing page to auto-send and jump straight into chat
-- 💾 **Chat persistence** — Conversations saved in localStorage, survive page refresh
-- 🗑️ **Clear chat** — One-click reset to start fresh
-- 🌙 **Premium dark UI** — Code-editor aesthetic with red/orange glow, mesh background, glassmorphism
-- 🖥️ **Syntax highlighting** — Code blocks render with full syntax highlighting
-- ⌨️ **Typing indicator** — Animated dots while the mentor is thinking
-- ❌ **Error state** — Friendly error message with a retry button
-- 📱 **Fully responsive** — Works on mobile and desktop
+- 🎯 **Topic-focused** - Only answers DSA & algorithm questions. Politely redirects everything else
+- 🧑‍🏫 **Mentor mode** - For LeetCode problems, guides you step by step instead of giving direct answers
+- 💡 **Suggested questions** - Empty state shows quick-start prompts to get going instantly
+- ⚡ **Chip navigation** - Click any suggestion on the landing page to auto-send and jump straight into chat
+- 💾 **Chat persistence** - Conversations saved in localStorage, survive page refresh
+- 🗑️ **Clear chat** - One-click reset to start fresh
+- 🌙 **Premium dark UI** - Code-editor aesthetic with red/orange glow, mesh background, glassmorphism
+- 🖥️ **Syntax highlighting** - Code blocks render with full syntax highlighting
+- ⌨️ **Typing indicator** - Animated dots while the mentor is thinking
+- ❌ **Error state** - Friendly error message with a retry button
+- 📱 **Fully responsive** - Works on mobile and desktop
 
 ---
 
@@ -88,7 +88,7 @@ dsa-mentor-ai/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/dsa-mentor-ai.git
+git clone https://github.com/Amolraut638/dsa-mentor-ai.git
 cd dsa-mentor-ai
 ```
 
@@ -144,14 +144,6 @@ Most developers struggle with DSA not because they lack intelligence, but becaus
 DsaMentor.ai is built around the idea that the best way to get good at DSA is to have a patient mentor who guides you, not one who solves things for you. The UI is intentionally built to feel like a focused learning environment — dark, distraction-free, with a code-editor aesthetic that puts you in the right headspace.
 
 ---
-
-## 📸 Screenshots
-
-> Add screenshots here after deployment
-
----
-
-## 📄 License
 
 MIT — feel free to use, modify, and build on this.
 

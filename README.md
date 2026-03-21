@@ -2,11 +2,6 @@
 
 > Your personal DSA & LeetCode mentor, powered by AI. Built to teach — not just answer.
 
-![DsaMentor.ai](https://img.shields.io/badge/DsaMentor.ai)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_AI-FF6A00?style=for-the-badge)
-
 ---
 
 ## 🚀 Live Demo

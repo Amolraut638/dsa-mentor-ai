@@ -62,8 +62,8 @@ export default function ChatPage({ initialMessage = '' }) {
     setLoading(true)
 
     const history = messages.map(m => ({
-      role: m.role === 'user' ? 'user' : 'model',
-      parts: [{ text: m.content }]
+      role: m.role === 'user' ? 'user' : 'assistant',
+      content: m.content
     }))
 
     try {
